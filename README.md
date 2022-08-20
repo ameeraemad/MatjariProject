@@ -64,6 +64,7 @@ Laravel is accessible, powerful, and provides tools required for large, robust a
  ## Setup
 
 Database 
+
 .env file
 
 DB_CONNECTION=mysql
@@ -87,6 +88,7 @@ php artisan db:seed --class=UserSeeder
 # Note
 
 Admin login in dashboard:
+
 Email : matjari@gmail.com
 
 Password : 12345600
