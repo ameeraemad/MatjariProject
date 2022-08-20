@@ -6,8 +6,31 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
+## Title Project
 
-## About Laravel
+Matjari: Web Application for creating online  stores
+
+## Project Description
+
+Few of the sites that provide the creation of websites for stores easily and without the need  for much experience in the field of site creation. In this project, we created a website called  “Matjari” that allows merchants to create their own websites to showcase and sell their  products, and the web app provides some templates with user friendly interfaces for  customers. This allows the customer to use the web application after the merchant has published it.
+
+## Objectives
+
+The main objective of the project is to develop a web application that helps  merchants setting up their own online stores for selling products and goods.
+
+1- Planning our project and trying to choose the easiest way for implementing the features in the project.
+2- Gathering detailed requirements to determine specific feature  expectations.
+
+3- Analyze project requirement using UML scheme and use case diagram and so on .
+
+4- Design the web application interfaces 
+
+5 -Implement our web application using PHP Laravel framework.
+
+6- Testing the project before launching it
+
+## About Technologies used
+
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
 
@@ -21,11 +44,7 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 
 Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
-## Learning Laravel
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
-
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 1500 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
 
 ## Laravel Sponsors
 
