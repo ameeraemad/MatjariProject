@@ -84,13 +84,14 @@ Create the database before run artisan command.
 php artisan migrate
 php artisan db:seed --class=UserSeeder
 
-## Note
-# Admin login in dashboard:
+# Note
+
+Admin login in dashboard:
 Email : matjari@gmail.com
 
 Password : 12345600
 
-# Merchant login in dashboard:
+ Merchant login in dashboard:
 
 Email: shein@hotmail.com
 
